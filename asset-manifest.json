@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mooo/static/css/main.1e3c9fcd.chunk.css",
+    "main.js": "/mooo/static/js/main.f1a10286.chunk.js",
+    "main.js.map": "/mooo/static/js/main.f1a10286.chunk.js.map",
+    "runtime-main.js": "/mooo/static/js/runtime-main.8213f75c.js",
+    "runtime-main.js.map": "/mooo/static/js/runtime-main.8213f75c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/mooo/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9b0e3121.chunk.js": "/mooo/static/js/2.9b0e3121.chunk.js",
+    "static/js/2.9b0e3121.chunk.js.map": "/mooo/static/js/2.9b0e3121.chunk.js.map",
+    "index.html": "/mooo/index.html",
+    "precache-manifest.758c0f77857e2bd6f3058dc7c6f55b3a.js": "/mooo/precache-manifest.758c0f77857e2bd6f3058dc7c6f55b3a.js",
+    "service-worker.js": "/mooo/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/mooo/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1e3c9fcd.chunk.css.map": "/mooo/static/css/main.1e3c9fcd.chunk.css.map",
+    "static/js/2.9b0e3121.chunk.js.LICENSE": "/mooo/static/js/2.9b0e3121.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8213f75c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9b0e3121.chunk.js",
+    "static/css/main.1e3c9fcd.chunk.css",
+    "static/js/main.f1a10286.chunk.js"
+  ]
+}
